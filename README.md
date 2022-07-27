@@ -1,6 +1,6 @@
 # New Tab Replacement
 
-![GitHub](https://img.shields.io/github/license/CorySanin/new-tab-replacement)
+[![GitHub](https://img.shields.io/github/license/CorySanin/new-tab-replacement)](https://github.com/CorySanin/new-tab-replacement/blob/master/LICENSE)
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/hegkgphpbbhoefagdpmnipfmabefljok)](https://chrome.google.com/webstore/detail/new-tab-replacement/hegkgphpbbhoefagdpmnipfmabefljok)
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/users/hegkgphpbbhoefagdpmnipfmabefljok)](https://chrome.google.com/webstore/detail/new-tab-replacement/hegkgphpbbhoefagdpmnipfmabefljok)
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/hegkgphpbbhoefagdpmnipfmabefljok)](https://chrome.google.com/webstore/detail/new-tab-replacement/hegkgphpbbhoefagdpmnipfmabefljok)
